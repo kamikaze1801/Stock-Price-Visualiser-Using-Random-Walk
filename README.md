@@ -1,7 +1,7 @@
 # Stock-Price-Visualiser-Using-Random-Walk
 
 ## **Understanding**
-This project uses the concept of Random Walk to aids in understanding the range of future possibilities of a stock. A simple experiment to understand the concept of Random Walk is to imagine you are standing at a street corner and flipping a coin. Heads = step forward and Tails = step back. Since each flip is independent and unpredictable of each other, after about 100 flips, you do not know where you would be. This analogy is taken into the pricing of stocks. They move up and down based on random new, economic events and investor sentiment that cannot usually be predicted in advance. 
+This project uses the concept of Random Walk to aid in understanding the range of future possibilities of a stock. A simple experiment to understand the concept of Random Walk is to imagine you are standing at a street corner and flipping a coin. Heads = step forward and Tails = step back. Since each flip is independent and unpredictable of each other, after about 100 flips, you do not know where you would be. This analogy is taken into the pricing of stocks. They move up and down based on random new, economic events and investor sentiment that cannot usually be predicted in advance. 
 This project also makes use of the Markov Property which says that the future depends only on the present (+ a shock factor), not on the past. The assumption for this is the efficient market hypothesis. 
 
 ### **Why was Daily Returns used?**
